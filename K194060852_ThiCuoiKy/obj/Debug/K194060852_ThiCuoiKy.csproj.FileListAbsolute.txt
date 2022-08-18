@@ -12,3 +12,18 @@ C:\Users\hung\source\repos\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K
 C:\Users\hung\source\repos\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.csproj.GenerateResource.cache
 C:\Users\hung\source\repos\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.exe
 C:\Users\hung\source\repos\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.pdb
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\bin\Debug\K194060852_ThiCuoiKy.exe.config
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\bin\Debug\K194060852_ThiCuoiKy.exe
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\bin\Debug\K194060852_ThiCuoiKy.pdb
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.csproj.AssemblyReference.cache
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\MainWindow.g.cs
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\App.g.cs
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy_MarkupCompile.cache
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy_MarkupCompile.lref
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\MainWindow.baml
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.g.resources
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.Properties.Resources.resources
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.csproj.GenerateResource.cache
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.csproj.CoreCompileInputs.cache
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.exe
+D:\visual file code\K194060852_ThiCuoiKy\K194060852_ThiCuoiKy\obj\Debug\K194060852_ThiCuoiKy.pdb
